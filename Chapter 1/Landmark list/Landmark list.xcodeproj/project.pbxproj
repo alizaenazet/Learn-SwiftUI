@@ -18,6 +18,7 @@
 		EE4005052BD1FCC900072B00 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4005042BD1FCC900072B00 /* Landmark.swift */; };
 		EE40051F2BD1FF3F00072B00 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE40051E2BD1FF3F00072B00 /* ModelData.swift */; };
 		EE4005222BD1FFE200072B00 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4005212BD1FFE200072B00 /* LandmarkRow.swift */; };
+		EE4005242BD201E200072B00 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE4005232BD201E200072B00 /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		EE4005042BD1FCC900072B00 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		EE40051E2BD1FF3F00072B00 /* ModelData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		EE4005212BD1FFE200072B00 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		EE4005232BD201E200072B00 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 			children = (
 				EE325A312BD1F98F00C58B8C /* ContentView.swift */,
 				EE4005212BD1FFE200072B00 /* LandmarkRow.swift */,
+				EE4005232BD201E200072B00 /* LandmarkList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE325A322BD1F98F00C58B8C /* ContentView.swift in Sources */,
+				EE4005242BD201E200072B00 /* LandmarkList.swift in Sources */,
 				EE40051F2BD1FF3F00072B00 /* ModelData.swift in Sources */,
 				EE325A302BD1F98F00C58B8C /* Landmark_listApp.swift in Sources */,
 				EE4005222BD1FFE200072B00 /* LandmarkRow.swift in Sources */,
