@@ -103,6 +103,7 @@
 		EE325A2E2BD1F98F00C58B8C /* Landmark list */ = {
 			isa = PBXGroup;
 			children = (
+				EE325A2F2BD1F98F00C58B8C /* Landmark_listApp.swift */,
 				EE4005012BD1FBC700072B00 /* landmarkData.json */,
 				EE4005032BD1FC0C00072B00 /* Model */,
 				EE4005202BD1FF8B00072B00 /* Views */,
@@ -150,7 +151,6 @@
 		EE4005202BD1FF8B00072B00 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				EE325A2F2BD1F98F00C58B8C /* Landmark_listApp.swift */,
 				EE325A312BD1F98F00C58B8C /* ContentView.swift */,
 				EE4005212BD1FFE200072B00 /* LandmarkRow.swift */,
 			);
